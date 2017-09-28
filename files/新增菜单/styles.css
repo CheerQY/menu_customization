@@ -319,6 +319,13 @@
   width:48px;
   white-space:nowrap;
 }
+#u486_ann {
+  position:absolute;
+  left:98px;
+  top:215px;
+  width:1px;
+  height:1px;
+}
 #u488 {
   position:absolute;
   left:159px;
@@ -341,13 +348,6 @@
 }
 #u488_input:disabled {
   color:grayText;
-}
-#u488_ann {
-  position:absolute;
-  left:444px;
-  top:204px;
-  width:1px;
-  height:1px;
 }
 #u489_div {
   position:absolute;
@@ -719,6 +719,13 @@
   top:0px;
   width:62px;
   white-space:nowrap;
+}
+#u509_ann {
+  position:absolute;
+  left:112px;
+  top:303px;
+  width:1px;
+  height:1px;
 }
 #u511 {
   position:absolute;
